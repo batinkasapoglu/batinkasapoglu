@@ -1,17 +1,16 @@
-# Hi, I'm Batın Kasapoğlu
+Hi, I'm Batın Kasapoğlu
 
-I am a **Metallurgical and Materials Engineer**, former **Quality Control Chief**, and a software developer focused on building practical products, automation systems, and data-driven applications.
+I am a Metallurgical and Materials Engineer, former Quality Control Chief, and a software developer focused on building practical products, automation tools, and data-driven applications.
 
 My background combines engineering discipline, production and quality-control experience, and hands-on software development.
 
-## What I build
-
-* AI-assisted automation systems
-* Web and mobile applications
-* API integrations and internal tools
-* Real-time data monitoring dashboards
-* Desktop applications
-* Process-focused software solutions
+What I build
+Web and mobile applications
+Automation tools and rule-based systems
+API integrations and internal tools
+Real-time data monitoring dashboards
+Desktop applications
+Process-focused software solutions
 
 ## Selected projects
 
