@@ -1,74 +1,68 @@
 # Hi, I'm Batın Kasapoğlu
 
-I am a Metallurgical and Materials Engineer, former Quality Control Chief, and a software developer focused on building practical products, automation tools, and data-driven applications.
+Software Developer building practical mobile, desktop, automation, and data-driven products.
 
-My background combines engineering discipline, production and quality-control experience, and hands-on software development.
+I have a background in Metallurgical and Materials Engineering and previously worked as a Quality Control Chief in the steel industry. Today, I focus on TypeScript, React Native, Node.js, React, Electron, APIs, automation, and AI-assisted development.
 
-## What I build
-* Web and mobile applications
-* Automation tools and rule-based systems
-* API integrations and internal tools
-* Real-time data monitoring dashboards
-* Desktop applications
-* Process-focused software solutions
-
-## Selected projects
-
-### Base Pool Radar
-
-A responsive research dashboard for exploring active liquidity pools on the Base network using public market data.
-
-**Highlights:** Next.js, React, TypeScript, server-side API integration, strict response validation, filtering, sorting, and responsive data visualization.
-
-[View repository](https://github.com/batinkasapoglu/base-pool-radar)
+## Selected Projects
 
 ### Yatırımım Altın
+Published mobile finance app available on both the Apple App Store and Google Play.
 
-A mobile finance application published on both the Apple App Store and Google Play.
+- React Native
+- TypeScript
+- Mobile application development
+- API-driven financial data
 
-The application helps users track physical gold and silver holdings and calculate their approximate value in Turkish Lira.
+App Store: https://apps.apple.com/us/app/yat%C4%B1r%C4%B1m%C4%B1m-alt%C4%B1n/id6753948425
 
-[View on the App Store](https://apps.apple.com/us/app/yat%C4%B1r%C4%B1m%C4%B1m-alt%C4%B1n/id6753948425)
+Google Play: https://play.google.com/store/apps/details?id=com.martensite.altinHesaplama
 
-[View on Google Play](https://play.google.com/store/apps/details?id=com.martensite.altinHesaplama)
+### Group Todo
+React Native group task management application with authentication, group membership, shared tasks, localization, and Firestore authorization.
 
-### Kütüphane Takip Sistemi
+- React Native
+- TypeScript
+- Expo
+- Firebase Authentication
+- Cloud Firestore
 
-A Windows desktop library management application built with Electron, React, TypeScript, Tailwind CSS, and SQLite.
+Repository: https://github.com/batinkasapoglu/group-todo-app
 
-It includes book and student management, borrowing workflows, search, QR and barcode label generation, PDF output, and Windows installer packaging.
+### Library Management System
+Windows desktop library management application with book/student management, borrowing workflows, barcode/QR generation, PDF output, and local SQLite storage.
 
-[View repository](https://github.com/batinkasapoglu/kutuphane-takip-sistemi)
+- Electron
+- React
+- TypeScript
+- SQLite
 
-## Technologies
+Repository: https://github.com/batinkasapoglu/kutuphane-takip-sistemi
 
-**Languages and frameworks**
+### Base Pool Radar
+Responsive research dashboard for exploring active liquidity pools on Base using public market data.
 
-TypeScript · JavaScript · React · React Native · Next.js · Node.js · Electron
+- Next.js
+- React
+- TypeScript
+- API integration
+- Data visualization
 
-**Data and services**
+Live Demo: https://base-pool-radar.vercel.app/
 
-REST APIs · SQLite · Firebase · Real-time data processing
+Repository: https://github.com/batinkasapoglu/base-pool-radar-v1
 
-**Tools**
+## Core Technologies
 
-Git · GitHub · AI coding tools · Vercel · PM2 · VPS deployment
+TypeScript · JavaScript · React Native · React · Node.js · Next.js · Electron · REST APIs · Firebase · SQLite · Git · GitHub
 
-**Engineering background**
+## Current Focus
 
-Metallurgical and Materials Engineering · Quality Control · Root-Cause Analysis · Process Improvement · Technical Documentation
+Remote opportunities involving:
 
-## Current focus
-
-I am currently looking for remote opportunities involving:
-
-* AI-assisted software development
-* Automation and internal tools
-* API integrations
-* Data-driven applications
-* Full-stack product development
-* Mobile and desktop applications
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/batinkasapoglu/) · [App Store](https://apps.apple.com/us/app/yat%C4%B1r%C4%B1m%C4%B1m-alt%C4%B1n/id6753948425) · [Google Play](https://play.google.com/store/apps/details?id=com.martensite.altinHesaplama)
+- Software development
+- Mobile and desktop applications
+- API integrations
+- Internal tools
+- Automation
+- Data-driven products
